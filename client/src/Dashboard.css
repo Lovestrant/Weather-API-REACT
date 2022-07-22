@@ -1,0 +1,15 @@
+
+td, th {
+    border: 1px solid rgb(205, 182, 182);
+    padding: 30px;
+  
+  }
+  
+.app{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+tbody{
+    margin-left: 30px;
+}
